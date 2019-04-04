@@ -1,11 +1,8 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 package maxcut;
 
 /**
+ * Used algorithm with approximation explained can be found at:
+ * https://www2.cs.duke.edu/courses/fall15/compsci532/scribe_notes/lec17.pdf
  *
  * @author Komabjn
  */
